@@ -1,63 +1,57 @@
 [
   {
 "id": 1,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "Cosmictic Use for Make up ",
+"price": 100,
 "discountPercentage": 12.96,
 "rating": 4.69,
-"thumbnail": "../img/pic1.jpg"
+"thumbnail": "../img/pic14.jpg"
 },
   {
 "id": 2,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "Serume",
+"price": 25,
 "discountPercentage": 12.96,
 "rating": 4.69,
-"thumbnail": "../img/pic2.jpg"
+"thumbnail": "../img/pic13.jpg"
 },
   {
 "id": 3,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "Foam",
+"price": 60,
 "discountPercentage": 12.96,
 "rating": 4.69,
-"thumbnail": "../img/pic3.jpg"
+"thumbnail": "../img/pic18.jpg"
 },
   {
 "id": 4,
-"title": "iPhone 9",
+"title": "SunCream",
 "description": "An apple mobile which is nothing like apple",
-"price": 549,
+"price": 70,
 "discountPercentage": 12.96,
 "rating": 4.69,
 "thumbnail": "../img/pic4.jpg"
 },
   {
 "id": 5,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "Serume use for at nigth",
+"price": 26,
 "discountPercentage": 12.96,
 "rating": 4.69,
-"thumbnail": "../img/pic5.jpg"
+"thumbnail": "../img/pic3.jpg"
 },
   {
 "id": 6,
-"title": "iPhone 13",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "SunCream",
+"price": 78,
 "discountPercentage": 12.96,
 "rating": 4.69,
 "thumbnail": "../img/pic6.jpg"
 },
   {
 "id": 7,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "For face",
+"price": 300,
 "discountPercentage": 12.96,
 "rating": 4.69,
 "thumbnail": "../img/pic7.jpg"
@@ -69,30 +63,27 @@
 "price": 549,
 "discountPercentage": 12.96,
 "rating": 4.69,
-"thumbnail": "../img/pic8.jpg"
-},
-  {
-"id": 9,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
-"discountPercentage": 12.96,
-"rating": 4.69,
-"thumbnail": "../img/pic12.jpg"
-},
-  {
-"id": 10,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
-"discountPercentage": 12.96,
-"rating": 4.69,
 "thumbnail": "../img/pic11.jpg"
 },
   {
+"id": 9,
+"title": "Dior suncream",
+"price": 549,
+"discountPercentage": 12.96,
+"rating": 4.69,
+"thumbnail": "../img/pic5.jpg"
+},
+  {
+"id": 10,
+"title": "Dume ",
+"price": 256,
+"discountPercentage": 12.96,
+"rating": 4.69,
+"thumbnail": "../img/pic15.jpg"
+},
+  {
 "id": 11,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
+"title": "Dior",
 "price": 549,
 "discountPercentage": 12.96,
 "rating": 4.69,
@@ -100,9 +91,8 @@
 },
   {
 "id": 12,
-"title": "iPhone 9",
-"description": "An apple mobile which is nothing like apple",
-"price": 549,
+"title": "Foam",
+"price": 10,
 "discountPercentage": 12.96,
 "rating": 4.69,
 "thumbnail": "../img/pic9.jpg"
